@@ -1,7 +1,7 @@
 # ChatProject-w-Threading
 
 
-This project demonstrates a client-server messaging project using multi threading. The server controls client connections and handling distribution of messages. 
+This project demonstrates a client-server messaging project using multi threading. The server controls client connections and handling distribution of messages. Both client and server code is included in their respective folders.
 - The server can be bound to any port
   -Default port is: 14001
   -However you can set this to anything using -csp argument
